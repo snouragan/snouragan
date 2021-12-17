@@ -7,9 +7,6 @@
 [<img align="left" alt="C language" width="26px" src="images\C_language.png" />]
 [<img align="left" alt="C++ language" width="26px" src="images\Cpp_language.png" />]
 
-[thingiverse]
-
----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snouragan&show_icons=true&theme=cobalt)
 
