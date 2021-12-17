@@ -21,7 +21,7 @@
 [<img align="left" alt="mysql" width="26px" src="images\mysql.png" />][Mysql_site]
 [<img align="left" alt="Octave" width="26px" src="images\octave.png" />][Octave_site]
 [<img align="left" alt="Matlab" width="26px" src="images\matlab.png" />][Matlab_site]
-[<img align="left" alt="Bash" width="26px" src="images\matlab.png" />][Bash_site]
+[<img align="left" alt="Bash" width="26px" src="images\bash.png" />][Bash_site]
 
 
 <br />
