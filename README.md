@@ -8,7 +8,9 @@
 [<img align="left" alt="C language" width="26px" src="images\C_language.png" />]
 [<img align="left" alt="C++ language" width="26px" src="images\Cpp_language.png" />]
 [<img align="left" alt="Lua language" width="26px" src="images\Lua_language.png" />]
-[<img align="left" alt="Lua language" width="26px" src="images\Python_language.png" />]
+[<img align="left" alt="Python language" width="26px" src="images\Python_language.png" />]
+[<img align="left" alt="mysql" width="26px" src="images\mysql.png" />]
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snouragan&show_icons=true&theme=cobalt)
 
