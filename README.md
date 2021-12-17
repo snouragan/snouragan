@@ -54,8 +54,6 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [thingiverse]: https://www.thingiverse.com/snou/designs
 [VS_site]: https://code.visualstudio.com/
