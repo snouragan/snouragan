@@ -21,6 +21,8 @@
 [<img align="left" alt="mysql" width="26px" src="images\mysql.png" />][Mysql_site]
 [<img align="left" alt="Octave" width="26px" src="images\octave.png" />][Octave_site]
 [<img align="left" alt="Matlab" width="26px" src="images\matlab.png" />][Matlab_site]
+[<img align="left" alt="Bash" width="26px" src="images\matlab.png" />][Bash_site]
+
 
 <br />
 
@@ -47,7 +49,13 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snouragan&show_icons=true&theme=cobalt)
+![snou's GitHub stats](https://github-readme-stats.vercel.app/api?username=snouragan&show_icons=true&theme=cobalt&count_private=true)
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snouragan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [thingiverse]: https://www.thingiverse.com/snou/designs
 [VS_site]: https://code.visualstudio.com/
@@ -71,3 +79,4 @@
 [Raspbian_site]: https://www.raspberrypi.com/software/
 [Etti_site]: http://www.electronica.pub.ro/
 [Ichb_site]: https://www.ichb.ro/
+[Bash_site]: https://www.gnu.org/software/bash/
