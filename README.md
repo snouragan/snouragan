@@ -1,5 +1,5 @@
-## Politehnica University of Bucharest 
-## Faculty of Electronics, Telecommunications and Information Technology
+### **Faculty of Electronics, Telecommunications and Information Technology**
+[<img align="left" alt="C language" src="images\C_language.png" />][Etti_site]
 
 ### SKILLS
 
@@ -65,3 +65,4 @@
 [Ubuntu_site]: https://ubuntu.com/
 [Kali_site]: https://www.kali.org/
 [Raspbian_site]: https://www.raspberrypi.com/software/
+[Etti_site]: http://www.electronica.pub.ro/
