@@ -1,11 +1,13 @@
 ## Politehnica University of Bucharest 
-##Faculty of Electronics, Telecommunications and Information Technology
+## Faculty of Electronics, Telecommunications and Information Technology
 
 ### SKILLS
 
 ## EDITORS
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VS_site]
 [<img align="left" alt="Vim" width="26px" src="images\vim.png" />][Vim_site]
+
+<br />
 
 ## PROGRAMMING LANGUAGES
 [<img align="left" alt="C language" width="26px" src="images\C_language.png" />][C_site]
