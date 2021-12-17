@@ -49,13 +49,12 @@
 <br />
 <br />
 
-![snou's GitHub stats](https://github-readme-stats.vercel.app/api?username=snouragan&show_icons=true&theme=cobalt&count_private=true)
-
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snouragan)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snouragan&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snouragan&repo=convoychat" />
+</a>
 
 [thingiverse]: https://www.thingiverse.com/snou/designs
 [VS_site]: https://code.visualstudio.com/
