@@ -51,9 +51,6 @@
 
 ![snou's GitHub stats](https://github-readme-stats.vercel.app/api?username=snouragan&show_icons=true&theme=cobalt&count_private=true)
 
-<br />
-<br />
-
 
 [thingiverse]: https://www.thingiverse.com/snou/designs
 [VS_site]: https://code.visualstudio.com/
