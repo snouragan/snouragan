@@ -1,5 +1,5 @@
 ### **Faculty of Electronics, Telecommunications and Information Technology**
-[<img align="left" alt="C language" src="images\C_language.png" />][Etti_site]
+[<img align="center" alt="C language" src="images\ETTI.png" />][Etti_site]
 
 ### SKILLS
 
