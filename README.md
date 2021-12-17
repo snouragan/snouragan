@@ -13,6 +13,8 @@
 [<img align="left" alt="arduino" width="26px" src="images\arduino.png" />]
 [<img align="left" alt="espressif" width="26px" src="images\espressif.png" />]
 [<img align="left" alt="STMicroellectronics" width="26px" src="images\STM.png" />]
+[<img align="left" alt="Autodesk inventor" width="26px" src="images\autodesk_inventor.png" />]
+[<img align="left" alt="Cura" width="26px" src="images\Ultimaker_cura.png" />]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snouragan&show_icons=true&theme=cobalt)
 
