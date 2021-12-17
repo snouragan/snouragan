@@ -11,6 +11,7 @@
 [<img align="left" alt="Python language" width="26px" src="images\Python_language.png" />]
 [<img align="left" alt="mysql" width="26px" src="images\mysql.png" />]
 [<img align="left" alt="arduino" width="26px" src="images\arduino.png" />]
+[<img align="left" alt="espressif" width="26px" src="images\esspresif.png" />]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snouragan&show_icons=true&theme=cobalt)
 
