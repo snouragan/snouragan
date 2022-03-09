@@ -13,7 +13,7 @@
 
 <br />
 
-## PROGRAMMING LANGUAGES
+## PROGRAMMING LANGUAGES & TOOLS
 [<img align="left" alt="C language" width="26px" src="images\C_language.png" />][C_site]
 [<img align="left" alt="C++ language" width="26px" src="images\Cpp_language.png" />][C++_site]
 [<img align="left" alt="Lua language" width="26px" src="images\Lua_language.png" />][Lua_site]
